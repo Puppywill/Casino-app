@@ -3,9 +3,8 @@
 A simple and interactive **Slot Machine Game** built with **React, Material-UI**, and optimized for **mobile and desktop**. Players can spin the reels, place bets, and track their game history.
 
 ## 📸 Preview
-https://github.com/user-attachments/assets/d5bf5afc-224b-4082-8214-facea980e663
-https://github.com/user-attachments/assets/241a8ea1-5fa5-4c80-9d38-435b82d077c0
-
+![Image](https://github.com/user-attachments/assets/f3ba3f97-e637-4250-b5d4-a4e22f6144c3)
+![Image](https://github.com/user-attachments/assets/2652ac6e-38f5-4fb7-8176-a066be2f5cea)
 ## 🚀 Features
 ✅ Fully responsive (Mobile & Desktop)  
 ✅ Bet system with credit tracking  
